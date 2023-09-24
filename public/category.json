@@ -1,0 +1,195 @@
+[
+    {
+      "id": 1,
+      "title": "Product A",
+      "price": 19.99,
+      "category": {
+        "name": "Electronics",
+        "backgroundColor": "Blue",
+        "textColor": "White",
+        "buttonBackground": "Orange"
+      },
+      "color": {
+        "name": "Red",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_a.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Product B",
+      "price": 29.99,
+      "category": {
+        "name": "Clothing",
+        "backgroundColor": "Green",
+        "textColor": "White",
+        "buttonBackground": "Red"
+      },
+      "color": {
+        "name": "Blue",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_b.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Product C",
+      "price": 39.99,
+      "category": {
+        "name": "Home Decor",
+        "backgroundColor": "Orange",
+        "textColor": "Black",
+        "buttonBackground": "Yellow"
+      },
+      "color": {
+        "name": "Green",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_c.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Product D",
+      "price": 49.99,
+      "category": {
+        "name": "Electronics",
+        "backgroundColor": "Red",
+        "textColor": "White",
+        "buttonBackground": "Blue"
+      },
+      "color": {
+        "name": "Yellow",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_d.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Product E",
+      "price": 59.99,
+      "category": {
+        "name": "Sports",
+        "backgroundColor": "Purple",
+        "textColor": "White",
+        "buttonBackground": "Green"
+      },
+      "color": {
+        "name": "Purple",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_e.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Product F",
+      "price": 69.99,
+      "category": {
+        "name": "Electronics",
+        "backgroundColor": "Blue",
+        "textColor": "White",
+        "buttonBackground": "Orange"
+      },
+      "color": {
+        "name": "Orange",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_f.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Product G",
+      "price": 79.99,
+      "category": {
+        "name": "Clothing",
+        "backgroundColor": "Green",
+        "textColor": "White",
+        "buttonBackground": "Red"
+      },
+      "color": {
+        "name": "Pink",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_g.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Product H",
+      "price": 89.99,
+      "category": {
+        "name": "Home Decor",
+        "backgroundColor": "Orange",
+        "textColor": "Black",
+        "buttonBackground": "Yellow"
+      },
+      "color": {
+        "name": "Gray",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_h.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Product I",
+      "price": 99.99,
+      "category": {
+        "name": "Sports",
+        "backgroundColor": "Purple",
+        "textColor": "White",
+        "buttonBackground": "Green"
+      },
+      "color": {
+        "name": "Brown",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_i.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Product J",
+      "price": 109.99,
+      "category": {
+        "name": "Electronics",
+        "backgroundColor": "Red",
+        "textColor": "White",
+        "buttonBackground": "Blue"
+      },
+      "color": {
+        "name": "Black",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_j.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Product K",
+      "price": 119.99,
+      "category": {
+        "name": "Clothing",
+        "backgroundColor": "Green",
+        "textColor": "White",
+        "buttonBackground": "Red"
+      },
+      "color": {
+        "name": "White",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_k.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Product L",
+      "price": 129.99,
+      "category": {
+        "name": "Home Decor",
+        "backgroundColor": "Orange",
+        "textColor": "Black",
+        "buttonBackground": "Yellow"
+      },
+      "color": {
+        "name": "Silver",
+        "cardBackground": "LightGray"
+      },
+      "image": "product_l.jpg"
+    }
+  ]
+  
