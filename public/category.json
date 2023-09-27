@@ -7,7 +7,8 @@
     "category": "Health",
     "textColor": "#0052FF",
     "categoryBackground": "rgba(0, 82, 255, 0.20)",
-    "cardBackground": "#0052FF26"
+    "cardBackground": "#0052FF26",
+    "detail": " Improving healthcare access for vulnerable communities.Funding medical treatments, vaccinations, and healthcare infrastructure.Saving lives, reducing suffering, and promoting well-being."
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "category": "Education",
     "textColor": "#FF444A",
     "categoryBackground": "rgba(255, 68, 74, 0.20)",
-    "cardBackground": "#FF444A26"
+    "cardBackground": "#FF444A26",
+    "detail": "Supporting underprivileged children's access to quality education.Providing school supplies, scholarships, and educational resources.Empowering the next generation with knowledge and opportunities."
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "category": "Clothing",
     "textColor": "#79C23F",
     "categoryBackground": "rgba(121, 194, 63, 0.20)",
-    "cardBackground": "#79C23F26"
+    "cardBackground": "#79C23F26",
+    "detail": "Providing warm clothing and essentials to those in need. Purchasing winter coats, blankets, and clothing items. Keeping individuals warm and comfortable during challenging times. "
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "category": "Food",
     "textColor": "#F87147",
     "categoryBackground": "rgba(248, 113, 71, 0.20)",
-    "cardBackground": "#F8714726"
+    "cardBackground": "#F8714726",
+    "detail": " Alleviating hunger and food insecurity. Distributing nutritious meals, supporting food banks, and sustainable agriculture. Ensuring no one goes to bed hungry and promoting healthier communities."
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "category": "Food",
     "textColor": "#F87147",
     "categoryBackground": "rgba(248, 113, 71, 0.20)",
-    "cardBackground": "#F8714726"
+    "cardBackground": "#F8714726",
+    "detail": " Alleviating hunger and food insecurity. Distributing nutritious meals, supporting food banks, and sustainable agriculture. Ensuring no one goes to bed hungry and promoting healthier communities."
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "category": "Clothing",
     "textColor": "#79C23F",
     "categoryBackground": "rgba(121, 194, 63, 0.20)",
-    "cardBackground": "#79C23F26"
+    "cardBackground": "#79C23F26",
+    "detail": "Providing warm clothing and essentials to those in need. Purchasing winter coats, blankets, and clothing items. Keeping individuals warm and comfortable during challenging times. "
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "category": "Education",
     "textColor": "#FF444A",
     "categoryBackground": "rgba(255, 68, 74, 0.20)",
-    "cardBackground": "#FF444A26"
+    "cardBackground": "#FF444A26",
+    "detail": "Supporting underprivileged children's access to quality education.Providing school supplies, scholarships, and educational resources.Empowering the next generation with knowledge and opportunities."
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "category": "Health",
     "textColor": "#0052FF",
     "categoryBackground": "rgba(0, 82, 255, 0.20)",
-    "cardBackground": "#0052FF26"
+    "cardBackground": "#0052FF26",
+    "detail": " Improving healthcare access for vulnerable communities.Funding medical treatments, vaccinations, and healthcare infrastructure.Saving lives, reducing suffering, and promoting well-being."
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "category": "Health",
     "textColor": "#0052FF",
     "categoryBackground": "rgba(0, 82, 255, 0.20)",
-    "cardBackground": "#0052FF26"
+    "cardBackground": "#0052FF26",
+    "detail": " Improving healthcare access for vulnerable communities.Funding medical treatments, vaccinations, and healthcare infrastructure.Saving lives, reducing suffering, and promoting well-being."
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "category": "Education",
     "textColor": "#FF444A",
     "categoryBackground": "rgba(255, 68, 74, 0.20)",
-    "cardBackground": "#FF444A26"
+    "cardBackground": "#FF444A26",
+    "detail": "Supporting underprivileged children's access to quality education.Providing school supplies, scholarships, and educational resources.Empowering the next generation with knowledge and opportunities."
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "category": "Clothing",
     "textColor": "#79C23F",
     "categoryBackground": "rgba(121, 194, 63, 0.20)",
-    "cardBackground": "#79C23F26"
+    "cardBackground": "#79C23F26",
+    "detail": "Providing warm clothing and essentials to those in need. Purchasing winter coats, blankets, and clothing items. Keeping individuals warm and comfortable during challenging times. "
   },
   {
     "id": 12,
@@ -117,6 +128,7 @@
     "category": "Food",
     "textColor": "#F87147",
     "categoryBackground": "rgba(248, 113, 71, 0.20)",
-    "cardBackground": "#F8714726"
+    "cardBackground": "#F8714726",
+    "detail": " Alleviating hunger and food insecurity. Distributing nutritious meals, supporting food banks, and sustainable agriculture. Ensuring no one goes to bed hungry and promoting healthier communities."
   }
 ]

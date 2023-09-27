@@ -2,7 +2,8 @@ import swal from "sweetalert";
 
 
 const DonationDetailsCard = ({details}) => {
-    const { id, image,title,price,textColor
+ 
+    const { id, image,title,price,textColor,detail
     } =details || {};
     
     const handleAddToDonation =() =>{
@@ -49,14 +50,7 @@ const DonationDetailsCard = ({details}) => {
      {title}
     </h4>
     <p className="mt-3 block font-sans text-xl font-normal leading-relaxed text-gray-700 antialiased">
-      Because it's about motivating the doers. Because I'm here to follow my
-      dreams and inspire others.
-    </p>
-  </div>
-  <div className="flex items-center justify-between p-6">
-    
-    <p className="block font-sans text-base font-normal leading-relaxed text-inherit antialiased">
-      January 10
+      {detail}
     </p>
   </div>
 </div>
