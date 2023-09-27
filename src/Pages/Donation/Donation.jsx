@@ -12,7 +12,7 @@ const Donation = () => {
     if(donationAdd){
         setDonation(donationAdd);
     }else{
-        setNoFound('No Data Found');
+        setNoFound('Please Donate');
     }
    },[])
    

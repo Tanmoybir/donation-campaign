@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 
 const CategoryCard = ({ element }) => {
-   console.log(element);
+
     const { id, image, title, category,cardBackground,textColor,categoryBackground,detail
     } = element;
     
